@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Farm</string>
+    <string name="Login">Login</string>
+    <string name="Username">User Name</string>
+    <string name="Password">Password</string>
+    <string name="Continue">Continue</string>
+    <string name="contacts">Contacts</string>
+    <string name="problems">Problems</string>
+    <string name="data">Data</string>
+    <string name="example_contact_1">Example Contact 1</string>
+    <string name="example_contact_2">Example Contact 2</string>
+    <string name="samplecontact">SampleContact</string>
+    <string name="contacts2">Contacts:</string>
+    <string name="contact_91xxxxxxxx">Contact : +91xxxxxxxx</string>
+    <string name="email">Email</string>
+
+</resources>

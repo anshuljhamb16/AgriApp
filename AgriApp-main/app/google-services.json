@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971244048683",
+    "firebase_url": "https://agri-tip-2.firebaseio.com",
+    "project_id": "agri-tip-2",
+    "storage_bucket": "agri-tip-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971244048683:android:dcc4d68a1ba6ab0d84356e",
+        "android_client_info": {
+          "package_name": "com.example.farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971244048683-0l80hutnoh741sn96ue18bgc1fuful3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farm",
+            "certificate_hash": "be63a662efb4490c56ca43e94938f514f2923a23"
+          }
+        },
+        {
+          "client_id": "971244048683-nqjdvmal89c9ktbs1uqp30p4q8fhuiss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCudWy5x95mxhUQ1UuOfho5Qq_DPw4AxlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971244048683-nqjdvmal89c9ktbs1uqp30p4q8fhuiss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

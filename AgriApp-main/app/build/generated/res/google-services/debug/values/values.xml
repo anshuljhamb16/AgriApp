@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">971244048683-nqjdvmal89c9ktbs1uqp30p4q8fhuiss.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://agri-tip-2.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">971244048683</string>
+    <string name="google_api_key" translatable="false">AIzaSyCudWy5x95mxhUQ1UuOfho5Qq_DPw4AxlE</string>
+    <string name="google_app_id" translatable="false">1:971244048683:android:dcc4d68a1ba6ab0d84356e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCudWy5x95mxhUQ1UuOfho5Qq_DPw4AxlE</string>
+    <string name="google_storage_bucket" translatable="false">agri-tip-2.appspot.com</string>
+    <string name="project_id" translatable="false">agri-tip-2</string>
+</resources>
